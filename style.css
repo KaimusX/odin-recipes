@@ -10,12 +10,16 @@ body, a {
     text-align: center;
     padding: 10px;
     border-radius:10px;
+    margin-left:300px;
+    margin-right:300px;
 }
 
 .headers {
     background-color: #FFA500;
     padding: 5px;
     border-radius: 10px;
+    margin-left:300px;
+    margin-right:300px;
 }
 
 ul li, ol li {
