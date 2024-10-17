@@ -1,4 +1,4 @@
-body {
+body, a {
     background-color: #355C7D;    
     text-align: center;
     color: #FFFFF0;
@@ -18,28 +18,17 @@ body {
     border-radius: 10px;
 }
 
-div.container, ul.list, ul.list a {
-    color: #FFFFF0;
-}
-
-ul li {
+ul li, ol li {
     margin-bottom: 50px;
-}
-
-ol li {
-    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 div.container{
     text-align: center;
 }
 
-ul.list{
+ul.list, ol.list{
     display:inline-block;
-    text-align: left;
-}
-
-ol.list{
-    display: inline-block;
     text-align: left;
 }
