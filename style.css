@@ -1,0 +1,28 @@
+body {
+    background-color: #355C7D;    
+    text-align: center;
+}
+
+.main-page-title {
+    background-color: #FFFAFA;
+    text-align: center;
+    padding: 10px;
+    border-radius:10px;
+}
+
+div.container, ul.list, ul.list a {
+    color: #FFFFF0;
+}
+
+ul li {
+    margin-bottom: 50px;
+}
+
+div.container{
+    text-align: center;
+}
+
+ul.list{
+    display:inline-block;
+    text-align: left;
+}
