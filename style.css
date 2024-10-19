@@ -1,38 +1,15 @@
 body, a {
     background-color: #355C7D;    
-    text-align: center;
     color: #FFFFF0;
 }
 
 .main-page-title {
+    font-size: x-large;
     color: black;
     background-color: #FFFAFA;
-    text-align: center;
-    padding: 10px;
-    border-radius:10px;
-    margin-left:300px;
-    margin-right:300px;
 }
 
 .headers {
     background-color: #FFA500;
-    padding: 5px;
-    border-radius: 10px;
-    margin-left:300px;
-    margin-right:300px;
-}
-
-ul li, ol li {
-    margin-bottom: 50px;
-    margin-left: 300px;
-    margin-right: 300px;
-}
-
-div.container{
-    text-align: center;
-}
-
-ul.list, ol.list{
-    display:inline-block;
-    text-align: left;
+    font-size:large;
 }
